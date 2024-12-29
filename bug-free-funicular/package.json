@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@vercel/kv": "^0.2.1",
+    // ... other dependencies
+  }
+}
+
